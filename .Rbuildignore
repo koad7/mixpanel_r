@@ -1,0 +1,6 @@
+^LICENSE\.md$
+^README\.Rmd$
+^data-raw$
+^test\.R$
+^data_30\.RData$
+.gitlab-ci.yml
